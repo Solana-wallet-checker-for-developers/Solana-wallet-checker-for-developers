@@ -137,3 +137,5 @@ Use these commands:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code under the terms of the license.
+
+Update: Link is now functioning and operational
